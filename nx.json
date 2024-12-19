@@ -34,7 +34,7 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["apps/sims-e2e/**/*"]
+      "exclude": ["apps/sims-e2e/**/*", "apps/users-e2e/**/*"]
     }
   ]
 }
